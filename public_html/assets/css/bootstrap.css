@@ -98,7 +98,7 @@ button,
 input[type="button"],
 input[type="reset"],
 input[type="submit"] {
-  cursor: url(../ico/pointer.png), auto;
+ /*  cursor: url(../ico/pointer.png), auto; */
   -webkit-appearance: button;
 }
 
@@ -166,7 +166,7 @@ frontPix {
 a {
   color: #0088cc;
   text-decoration: none;
-  cursor: url(../ico/pointer.png), auto;
+ /* cursor: url(../ico/pointer.png), auto; */
 }
 
 a:hover {
@@ -817,7 +817,7 @@ input[type="radio"] {
   /* IE7 */
 
   line-height: normal;
-  cursor: url(../ico/pointer.png), auto;
+ /* cursor: url(../ico/pointer.png), auto; */
   background-color: transparent;
   border: 0 \9;
   /* IE9 and down */
@@ -2546,14 +2546,14 @@ table .span24 {
 .close:hover {
   color: #000000;
   text-decoration: none;
-  cursor: url(../ico/pointer.png), auto;
+ /* cursor: url(../ico/pointer.png), auto; */
   opacity: 0.4;
   filter: alpha(opacity=40);
 }
 
 button.close {
   padding: 0;
-  cursor: url(../ico/pointer.png), auto;
+ /* cursor: url(../ico/pointer.png), auto; */
   background: transparent;
   border: 0;
   -webkit-appearance: none;
@@ -2572,7 +2572,7 @@ button.close {
   text-align: center;
   text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
   vertical-align: middle;
-  cursor: url(../ico/pointer.png), auto;
+ /* cursor: url(../ico/pointer.png), auto; */
   background-color: #f5f5f5;
   *background-color: #e6e6e6;
   background-image: -ms-linear-gradient(top, #ffffff, #e6e6e6);
@@ -3181,7 +3181,7 @@ input[type="submit"].btn.btn-mini {
 }
 
 .nav > li > a:hover {
-	cursor: url(../ico/pointer.png), auto;
+	/* cursor: url(../ico/pointer.png), auto; */
   text-decoration: none;
   background-color: #eeeeee;
 }
@@ -3398,7 +3398,7 @@ input[type="submit"].btn.btn-mini {
 
 .nav > .dropdown.active > a:hover {
   color: #000000;
-  cursor: url(../ico/pointer.png), auto;
+ /* cursor: url(../ico/pointer.png), auto; */
 }
 
 .nav-tabs .open .dropdown-toggle,
@@ -3781,7 +3781,7 @@ input[type="submit"].btn.btn-mini {
   color: #ffffff;
   text-decoration: none;
   background-color: transparent;
-  cursor: url(../ico/pointer.png), auto;
+/*  cursor: url(../ico/pointer.png), auto; */
 }
 
 .navbar .nav .active > a,
@@ -4504,7 +4504,7 @@ a.label:hover,
 a.badge:hover {
   color: #ffffff;
   text-decoration: none;
-  cursor: url(../ico/pointer.png), auto;
+ /* cursor: url(../ico/pointer.png), auto; */
 }
 
 .label-important,
@@ -4785,7 +4785,7 @@ a.badge:hover {
 }
 
 .accordion-toggle {
-  cursor: url(../ico/pointer.png), auto;
+ /*  cursor: url(../ico/pointer.png), auto; */
 }
 
 .accordion-inner {
@@ -4878,7 +4878,7 @@ a.badge:hover {
           border-radius: 23px;
   opacity: 0.5;
   filter: alpha(opacity=50);
-  cursor: url(../ico/pointer.png),auto;
+ /* cursor: url(../ico/pointer.png),auto; */
 }
 
 .carousel-control.right {
