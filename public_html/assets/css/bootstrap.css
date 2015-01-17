@@ -2650,7 +2650,7 @@ button.close {
 
 .btn.disabled,
 .btn[disabled] {
-  cursor: default;
+  cursor: url(../ico/cursor.png),auto;
   background-color: #e6e6e6;
   background-image: none;
   opacity: 0.65;
@@ -3299,7 +3299,7 @@ input[type="submit"].btn.btn-mini {
 .nav-tabs > .active > a,
 .nav-tabs > .active > a:hover {
   color: #555555;
-  cursor: default;
+  cursor: url(../ico/cursor.png),auto;
   background-color: #ffffff;
   border: 1px solid #ddd;
   border-bottom-color: transparent;
@@ -4014,14 +4014,14 @@ input[type="submit"].btn.btn-mini {
 
 .pagination .active a {
   color: #999999;
-  cursor: default;
+  cursor: url(../ico/cursor.png),auto;
 }
 
 .pagination .disabled span,
 .pagination .disabled a,
 .pagination .disabled a:hover {
   color: #999999;
-  cursor: default;
+  cursor: url(../ico/cursor.png),auto;
   background-color: transparent;
 }
 
@@ -4094,7 +4094,7 @@ input[type="submit"].btn.btn-mini {
 .pager .disabled a,
 .pager .disabled a:hover {
   color: #999999;
-  cursor: default;
+  cursor: url(../ico/cursor.png),auto;
   background-color: #fff;
 }
 
