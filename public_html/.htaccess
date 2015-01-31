@@ -1,17 +1,8 @@
 <Files ~ "^\.(htaccess|htpasswd)$">
 deny from all
 </Files>
-Options Indexes
-AuthUserFile public_html/.htpasswd
-AuthGroupFile /dev/null
-AuthName "Please enter your ID and password"
-AuthType Basic
-require valid-user 
+Options -Indexes
 ErrorDocument 404 public_html/404.shtml
-RewriteEngine on
-RewriteCond %{HTTP_HOST} ^(team100\.org)(:80)? [NC]
-RewriteRule ^(.*) http://www.team100.org/$1 [R=301,L]
-DirectoryIndex index.html       
 order deny,allow
 Options -MultiViews
 RewriteEngine On
