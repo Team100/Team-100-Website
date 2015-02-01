@@ -90,13 +90,7 @@ body {
     </div>
   </div>
    <div class="navbar-inner">
-        <div class="container">
-          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </a>
-          <a class="brand" href="index.html">Team 100 Wildhats</a>
+    <div class="container"> <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </a> <a class="brand" href="index.html">Team 100 Wildhats</a>
       <div class="nav-collapse collapse">
         <ul class="nav">
           <li><a href="first.html">FIRST</a></li>
@@ -108,19 +102,19 @@ body {
        <li role="menuitem"><a href="team.html#sponsors">Sponsors</a></li>
        <li role="menuitem"><a href="team.html#outreach">Outreach</a></li>
        <li role="menuitem"><a href="team.html#mentors">Mentors and Volunteers</a></li>
-       <li role="menuitem"><a href="ftcteam.html">FTC Team 4800 and Team 4799</a></li>
-            </ul>
+       <li role="menuitem"><a href="ftcteam.html">FTC Team 4800 and Team 4799</a></li></ul> 
+
           <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Media<b class="caret"></b></a>
             <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
               <li role="menuitem" ><a href="photos.html">Photos</a></li>
               <li role="menuitem" ><a href="videos.html">Videos</a></li>
-
+              <!-- dba <li><a href="#">Animation</a></li>
+              <li><a href="#">Website</a></li> -->
             </ul>
           </li>
-         
-          <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Robots<b class="caret"></b></a>
+		  <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Robots<b class="caret"></b></a>
             <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
-        <li role="menuitem"><a href="robots.html#2015">2015: TBA</a></li>
+			<li role="menuitem"><a href="robots.html#2015">2015: TBA</a></li>
 	   <li role="menuitem"><a href="robots.html#Ballrus">2014: Ballrus</a></li>
        <li role="menuitem"><a href="robots.html#Orangahang">2013: Orangahang</a></li>
        <li role="menuitem"><a href="robots.html#Kraken">2012: The Kraken</a></li>
@@ -129,13 +123,15 @@ body {
        <li role="menuitem"><a href="robots.html#LunaBeast">2009: LunaBeast</a></li>
        <li role="menuitem"><a href="robots.html#Frog">2008: Ball Frog</a></li>
        <li role="menuitem"><a href="robots.html#Tube">2007: Tube-a-saurus</a></li>
+	   <li role="menuitem"><a href="robots.html#2006">2006: 2006 Robot</a></li>
             </ul>
           </li>
-		   <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Info<b class="caret"></b></a>
+          <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Info<b class="caret"></b></a>
             <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
               <li role="menuitem"><a href="calendar.html">Calendar</a></li>
               <!-- dba <li><a href="#">Member Benefits</a></li> -->
               <li role="menuitem"><a href="contact.html">Contact Us</a></li>
+			  <li><a href="resources.html">Team Resources</a></li>
             </ul>
           </li>
         </ul>
