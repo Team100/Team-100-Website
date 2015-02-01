@@ -81,9 +81,8 @@ a {
   </div>
   <div class="row">
     <div class="col-md-6 col-md-push-3">
-      <p class="lead">If you think what you're looking for should be here, please contact the site owner.</p>
-	  <p class="lead">To go back to the website, <a href="index.html">Click Here</a></p>
-	  <img src="assets/img/Final Shirt V1B.png" height="350" width="500" class="center" alt="Team 100">
+      <p class="lead">If you think what you're looking for should be here, please contact the <a href="mailto:webmaster@team100.org?Subject=404%20error">site owner</a>.</p>
+	  <p class="lead">To go back to the website, <a href="index">Click Here</a></p>
     </div>
   </div>
 </div>
