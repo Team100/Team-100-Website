@@ -93,7 +93,7 @@ body {
     <div class="container"> <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </a> <a class="brand" href="index">Team 100 Wildhats</a>
       <div class="nav-collapse collapse">
         <ul class="nav">
-          <li><a href="first">FIRST</a></li>
+          <li><a href="first"><i>FIRST</i></a></li>
           <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Team<b class="caret"></b></a>
 		     <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
 			<li role="menuitem"><a href="team">Team 100</a></li>
