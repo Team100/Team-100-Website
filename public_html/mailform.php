@@ -86,56 +86,52 @@ body {
 <div class="navbar navbar-inverse navbar-fixed-top">
   <div id="sub">
     <div class="row">
-      <div class="container"><a href="index.html"><img src="assets/img/t100-logo.png" width="158" height="43"></a><a class="pull-right" href="http://www.usfirst.org/"><img src="assets/img/firstlogo.png" width="42" height="43"></a></div>
+      <div class="container"><a href="index"><img src="assets/img/t100-logo.png" width="158" height="43"></a><a class="pull-right" href="http://www.usfirst.org/"><img src="assets/img/firstlogo.png" width="42" height="43"></a></div>
     </div>
   </div>
    <div class="navbar-inner">
-        <div class="container">
-          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </a>
-          <a class="brand" href="index.html">Team 100 Wildhats</a>
+    <div class="container"> <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </a> <a class="brand" href="index">Team 100 Wildhats</a>
       <div class="nav-collapse collapse">
         <ul class="nav">
-          <li><a href="first.html">FIRST</a></li>
+          <li><a href="first"><i>FIRST</i></a></li>
           <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Team<b class="caret"></b></a>
 		     <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
-			<li role="menuitem"><a href="team.html">Team 100</a></li>
-	   <li role="menuitem"><a href="team.html#history">History</a></li>
-       <li role="menuitem"><a href="team.html#awards">Awards</a></li>
-       <li role="menuitem"><a href="team.html#sponsors">Sponsors</a></li>
-       <li role="menuitem"><a href="team.html#outreach">Outreach</a></li>
-       <li role="menuitem"><a href="team.html#mentors">Mentors and Volunteers</a></li>
-       <li role="menuitem"><a href="ftcteam.html">FTC Team 4800 and Team 4799</a></li>
-            </ul>
+			<li role="menuitem"><a href="team">Team 100</a></li>
+	   <li role="menuitem"><a href="team#history">History</a></li>
+       <li role="menuitem"><a href="team#awards">Awards</a></li>
+       <li role="menuitem"><a href="team#sponsors">Sponsors</a></li>
+       <li role="menuitem"><a href="team#outreach">Outreach</a></li>
+       <li role="menuitem"><a href="team#mentors">Mentors and Volunteers</a></li>
+       <li role="menuitem"><a href="ftcteam">FTC Team 4800 and Team 4799</a></li></ul> 
+
           <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Media<b class="caret"></b></a>
             <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
-              <li role="menuitem" ><a href="photos.html">Photos</a></li>
-              <li role="menuitem" ><a href="videos.html">Videos</a></li>
-
+              <li role="menuitem" ><a href="photos">Photos</a></li>
+              <li role="menuitem" ><a href="videos">Videos</a></li>
+              <!-- dba <li><a href="#">Animation</a></li>
+              <li><a href="#">Website</a></li> -->
             </ul>
           </li>
-         
-          <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Robots<b class="caret"></b></a>
+		  <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Robots<b class="caret"></b></a>
             <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
-        <li role="menuitem"><a href="robots.html#2015">2015: TBA</a></li>
-	   <li role="menuitem"><a href="robots.html#Ballrus">2014: Ballrus</a></li>
-       <li role="menuitem"><a href="robots.html#Orangahang">2013: Orangahang</a></li>
-       <li role="menuitem"><a href="robots.html#Kraken">2012: The Kraken</a></li>
-       <li role="menuitem"><a href="robots.html#Wrath">2011: G-Wrath</a></li>
-       <li role="menuitem"><a href="robots.html#Hammerhead">2010: Hammerhead</a></li>
-       <li role="menuitem"><a href="robots.html#LunaBeast">2009: LunaBeast</a></li>
-       <li role="menuitem"><a href="robots.html#Frog">2008: Ball Frog</a></li>
-       <li role="menuitem"><a href="robots.html#Tube">2007: Tube-a-saurus</a></li>
+			<li role="menuitem"><a href="robots#2015">2015: TBA</a></li>
+	   <li role="menuitem"><a href="robots#Ballrus">2014: Ballrus</a></li>
+       <li role="menuitem"><a href="robots#Orangahang">2013: Orangahang</a></li>
+       <li role="menuitem"><a href="robots#Kraken">2012: The Kraken</a></li>
+       <li role="menuitem"><a href="robots#Wrath">2011: G-Wrath</a></li>
+       <li role="menuitem"><a href="robots#Hammerhead">2010: Hammerhead</a></li>
+       <li role="menuitem"><a href="robots#LunaBeast">2009: LunaBeast</a></li>
+       <li role="menuitem"><a href="robots#Frog">2008: Ball Frog</a></li>
+       <li role="menuitem"><a href="robots#Tube">2007: Tube-a-saurus</a></li>
+	   <li role="menuitem"><a href="robots#2006">Pre-2007 Robots</a></li>
             </ul>
           </li>
-		   <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Info<b class="caret"></b></a>
+          <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Info<b class="caret"></b></a>
             <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
-              <li role="menuitem"><a href="calendar.html">Calendar</a></li>
+              <li role="menuitem"><a href="calendar">Calendar</a></li>
               <!-- dba <li><a href="#">Member Benefits</a></li> -->
-              <li role="menuitem"><a href="contact.html">Contact Us</a></li>
+              <li role="menuitem"><a href="contact">Contact Us</a></li>
+			  <li><a href="resources">Team Resources</a></li>
             </ul>
           </li>
         </ul>
@@ -168,7 +164,7 @@ mail($email_to, $subject ,$message ) ;
 <p>Again, thank you for your interest in the Team 100 Wildhats</p>
 
 <!-- I know the return to index link isn't necessary, but the one on the top bar isn't very clear -->
-<p><a href="index.html">Return to Index</a></p>
+<p><a href="index">Return to Index</a></p>
 
 
     <!-- Le javascript
