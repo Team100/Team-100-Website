@@ -100,7 +100,7 @@ a {
   </div>
   <div class="row">
     <div class="col-md-6 col-md-push-3">
-      <p class="lead">Contact the <a href="mailto:webmaster@team100.org?Subject=404%20error">site owner</a>.</p>
+      <p class="lead">Contact the <a href="mailto:webmaster@team100.org?Subject=error">site owner</a>.</p>
 	  <p class="lead">To go back to the website, <a href="index">Click Here</a></p>
     </div>
   </div>
