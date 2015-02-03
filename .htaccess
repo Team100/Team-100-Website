@@ -2,7 +2,7 @@
 deny from all
 </Files>
 Options -Indexes
-ErrorDocument 404 public_html/404.shtml
+ErrorDocument 404 /404.shtml
 order deny,allow
 Options -MultiViews
 RewriteEngine On
