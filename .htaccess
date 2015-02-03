@@ -2,7 +2,27 @@
 deny from all
 </Files>
 Options -Indexes
+ErrorDocument 400 /Other_Error.shtml
+ErrorDocument 401 /Other_Error.shtml
+ErrorDocument 402 /Other_Error.shtml
+ErrorDocument 403 /403.shtml
 ErrorDocument 404 /404.shtml
+ErrorDocument 405 /Other_Error.shtml
+ErrorDocument 406 /Other_Error.shtml
+ErrorDocument 407 /Other_Error.shtml
+ErrorDocument 408 /Other_Error.shtml
+ErrorDocument 409 /Other_Error.shtml
+ErrorDocument 410 /Other_Error.shtml
+ErrorDocument 411 /Other_Error.shtml
+ErrorDocument 412 /Other_Error.shtml
+ErrorDocument 413 /Other_Error.shtml
+ErrorDocument 414 /Other_Error.shtml
+ErrorDocument 500 /Other_Error.shtml
+ErrorDocument 501 /Other_Error.shtml
+ErrorDocument 502 /Other_Error.shtml
+ErrorDocument 503 /Other_Error.shtml
+ErrorDocument 504 /Other_Error.shtml
+ErrorDocument 505 /Other_Error.shtml
 order deny,allow
 Options -MultiViews
 RewriteEngine On
