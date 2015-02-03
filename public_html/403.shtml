@@ -63,10 +63,25 @@ a {
 </style>
 </head>
 <body>
-<div class="container text-center" id="error">
+<div class="container text-center" id="error" style="
+    margin-top: 30px;
+">
 <div class="row">
     <div class="col-md-12">
-	<img src="assets/images/403-Forbidden.gif" class="center" alt="ERROR 403 (Forbidden)">
+<div id="the-king-animation">
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="260" height="360" id="king-swf" align="middle">
+<param name="movie" value="assets/images/403-Forbidden.swf">
+<!--[if !IE]>-->
+<object type="application/x-shockwave-flash" data="assets/images/403-Forbidden.swf" width="260" height="360">
+<param name="movie" value="/swf/theKing.swf">
+<!--<![endif]-->
+<img src="assets/images/403-Forbidden.gif" class="center" alt="ERROR 403 (Forbidden)">
+</a>
+<!--[if !IE]>-->
+</object>
+<!--<![endif]-->
+</object>
+</div>
     </div>
   </div>
   <svg height="100" width="100">
