@@ -1,7 +1,13 @@
-<Files ~ "^\.(htaccess|htpasswd)$">
-deny from all
+Options +FollowSymLinks
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^team100.org[nc]
+RewriteRule ^(.*)$ http://www.team100.org/$1 [r=301,nc]
+<Files /easter>
+AuthName "Prompt"
+AuthType Basic
+AuthUserFile /.htpasswd
+Require valid-user
 </Files>
-Options -Indexes
 ErrorDocument 400 /error_pages/Other_Error.shtml
 ErrorDocument 401 /error_pages/Other_Error.shtml
 ErrorDocument 402 /error_pages/Other_Error.shtml
@@ -24,7 +30,11 @@ ErrorDocument 503 /error_pages/Other_Error.shtml
 ErrorDocument 504 /error_pages/Other_Error.shtml
 ErrorDocument 505 /error_pages/Other_Error.shtml
 DirectoryIndex index.html
-order deny,allow
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+Options All -Indexes
 Options -MultiViews
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-d
