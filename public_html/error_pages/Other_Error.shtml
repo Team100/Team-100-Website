@@ -2,7 +2,7 @@
 <html>
 <head>
 <link rel="shortcut icon" href="assets/ico/favicon.ico">
-<title>403 Forbidden</title>
+<title>ERROR</title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" >
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style type="text/css">
@@ -63,25 +63,10 @@ a {
 </style>
 </head>
 <body>
-<div class="container text-center" id="error" style="
-    margin-top: 30px;
-">
+<div class="container text-center" id="error">
 <div class="row">
     <div class="col-md-12">
-<div id="the-king-animation">
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="260" height="360" id="king-swf" align="middle">
-<param name="movie" value="assets/images/403-Forbidden.swf">
-<!--[if !IE]>-->
-<object type="application/x-shockwave-flash" data="assets/images/403-Forbidden.swf" width="260" height="360">
-<param name="movie" value="/swf/theKing.swf">
-<!--<![endif]-->
-<img src="assets/images/403-Forbidden.gif" class="center" alt="ERROR 403 (Forbidden)">
-</a>
-<!--[if !IE]>-->
-</object>
-<!--<![endif]-->
-</object>
-</div>
+	<img src="../assets/img/team_hat.png" class="center" alt="Team 100">
     </div>
   </div>
   <svg height="100" width="100">
@@ -91,14 +76,32 @@ a {
  <div class="row">
     <div class="col-md-12">
       <div class="main-icon text-warning"><span class="uxicon uxicon-alert"></span></div>
-        <h1>Forbidden (403 error)</h1>
+        <h1>Your here because one of these errors has occurred.
+		<h1>400	Bad Request<br>
+            401	Unauthorized<br>
+            402	Payment Required<br>
+            405	Method Not Allowed<br>
+            406	Not Acceptable<br>
+            407	Proxy Authentication Required<br>
+            408	Request TimeOut<br>
+            409	Conflict<br>
+            410	Gone<br>
+            411	Length Required<br>
+            412	Precondition Failed<br>
+            413	Request Entity Too Large<br>
+            414	Request-URI Too Long<br>
+            500	Internal Server Error<br>
+            501	Not Implemented<br>
+            502	Bad Gateway<br>
+            503	Service Unavailable<br>
+            504	Gateway Timeout<br>
+            505	HTTP Version Not Supported</h1>
     </div>
   </div>
   <div class="row">
     <div class="col-md-6 col-md-push-3">
-      <p class="lead">You do not have access to this file.</p>
-	  <p class="lead">To go back to the website, <a href="index">Click Here</a></p>
-	  <p class="lead">Contact the <a href="mailto:webmaster@team100.org?Subject=403%20error">site owner</a>.</p>
+      <p class="lead">Contact the <a href="mailto:webmaster@team100.org?Subject=error">site owner</a>.</p>
+	  <p class="lead">To go back to the website, <a href="../index">Click Here</a></p>
     </div>
   </div>
 </div>
