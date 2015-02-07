@@ -73,7 +73,7 @@ a {
 <param name="movie" value="../assets/images/403-Forbidden.swf">
 <!--[if !IE]>-->
 <object type="application/x-shockwave-flash" data="../assets/images/403-Forbidden.swf" width="260" height="360">
-<param name="movie" value="/swf/theKing.swf">
+<param name="movie" value="../assets/images/403-Forbidden.swf">
 <!--<![endif]-->
 <img src="../assets/images/403-Forbidden.gif" class="center" alt="ERROR 403 (Forbidden)">
 </a>
