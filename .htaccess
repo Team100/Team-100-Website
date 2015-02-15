@@ -2,7 +2,7 @@ Options +FollowSymLinks
 RewriteEngine on
 RewriteCond %{HTTP_HOST} ^team100.org[nc]
 RewriteRule ^(.*)$ http://www.team100.org/$1 [r=301,nc]
-<Files /easter>
+<Files easter/COOLKIDSONLY/COOLKIDSONLY.html>
 AuthName "Prompt"
 AuthType Basic
 AuthUserFile /.htpasswd
