@@ -86,7 +86,7 @@ body {
 <div class="navbar navbar-inverse navbar-fixed-top">
   <div id="sub">
     <div class="row">
-      <div class="container"><a href="index"><img src="assets/img/t100-logo.png" width="158" height="43"></a><a class="pull-right" href="http://www.usfirst.org/"><img src="assets/img/firstlogo.png" width="42" height="43"></a></div>
+      <div class="container"><a href="index"><img src="assets/img/t100-logo.png" width="158" height="43"></a> <a class="pull-right" href="http://www.usfirst.org/"><img src="assets/img/firstLogos/first-horizontal.png" width="114" height="45" alt="FIRST Robotics"></a></div>
     </div>
   </div>
    <div class="navbar-inner">
@@ -168,7 +168,7 @@ mail($email_to, $subject ,$message ) ;
 
 <p> Your information has been sent. We will reply soon.</p>
 
-<p>Again, thank you for your interest in the Team 100 Wildhats</p>
+<p>Again, thank you for your interest in FRC Team 100 Wildhats</p>
 
 <!-- I know the return to index link isn't necessary, but the one on the top bar isn't very clear -->
 <p><a href="index">Return to Index</a></p>
