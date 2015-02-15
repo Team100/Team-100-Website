@@ -99,7 +99,7 @@ body {
 	   <li role="menuitem"><a href="first#mentality">The Mentality</a></li>
        <li role="menuitem"><a href="first#frc">FRC</a></li>
        <li role="menuitem"><a href="first#ftc">FTC</a></li>
-       <li role="menuitem"><a href="first#challenges">Challenges</a></li>
+       <li role="menuitem"><a href="challenges">Challenges</a></li>
          </ul> 
           <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Team<b class="caret"></b></a>
 		     <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
