@@ -70,12 +70,12 @@ a {
     <div class="col-md-12">
 <div id="the-king-animation">
 <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="260" height="360" id="king-swf" align="middle">
-<param name="movie" value="../assets/img/403-Forbidden.swf">
+<param name="movie" value="http://team100.org/assets/img/403-Forbidden.swf">
 <!--[if !IE]>-->
-<object type="application/x-shockwave-flash" data="../assets/img/403-Forbidden.swf" width="260" height="360">
+<object type="application/x-shockwave-flash" data="http://team100.org/assets/img/403-Forbidden.swf" width="260" height="360">
 <param name="movie" value="../assets/img/403-Forbidden.swf">
 <!--<![endif]-->
-<img src="../assets/img/403-Forbidden.gif" class="center" alt="ERROR 403 (Forbidden)">
+<img src="http://team100.org/assets/img/403-Forbidden.gif" class="center" alt="ERROR 403 (Forbidden)">
 </a>
 <!--[if !IE]>-->
 </object>
@@ -97,7 +97,7 @@ a {
   <div class="row">
     <div class="col-md-6 col-md-push-3">
       <p class="lead">You do not have access to this file.</p>
-	  <p class="lead">To go back to the website, <a href="../index">Click Here</a></p>
+	  <p class="lead">To go back to the website, <a href="http://team100.org/index">Click Here</a></p>
 	  <p class="lead">Contact the <a href="mailto:webmaster@team100.org?Subject=403%20error">site owner</a>.</p>
     </div>
   </div>
