@@ -129,7 +129,7 @@ body {
        <li role="menuitem"><a href="robots#Hammerhead">2010: Hammerhead</a></li>
        <li role="menuitem"><a href="robots#LunaBeast">2009: LunaBeast</a></li>
        <li role="menuitem"><a href="robots#Frog">2008: Ball Frog</a></li>
-       <li role="menuitem"><a href="robots#Tube">2007: Tube-a-saurus</a></li>
+       <li role="menuitem"><a href="robots#Tube">2007: Tube-A-Saurus-Rex</a></li>
 	   <li role="menuitem"><a href="robots#2006">Pre-2007 Robots</a></li>
             </ul>
           </li>
