@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://team100.org/</loc>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://team100.org/index</loc>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://team100.org/first</loc>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://team100.org/challenges</loc>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://team100.org/team</loc>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://team100.org/ftcteam</loc>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://team100.org/photos</loc>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://team100.org/videos</loc>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://team100.org/robots</loc>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://team100.org/calendar</loc>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://team100.org/contact</loc>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://team100.org/links</loc>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://team100.org/resources</loc>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://team100.org/sponsors</loc>
+  <changefreq>always</changefreq>
+</url>
+</urlset>
