@@ -37,7 +37,12 @@
 <style type="text/css">
 body {
         padding-top: 80px; /* 80px to make the container go all the way to the bottom of the topbar */
-      }
+        background-image: url('http://team100.org/assets/img/team_hat.png');
+		background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center 200px; 
+		background-size: 765px;
+	  }
 </style>
 
 <!-- Krakenize 
