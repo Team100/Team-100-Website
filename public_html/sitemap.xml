@@ -6,59 +6,45 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>http://team100.org/</loc>
-  <changefreq>always</changefreq>
+  <loc>http://www.team100.org/</loc>
 </url>
 <url>
-  <loc>http://team100.org/index</loc>
-  <changefreq>always</changefreq>
+  <loc>http://www.team100.org/index</loc>
 </url>
 <url>
-  <loc>http://team100.org/first</loc>
-  <changefreq>always</changefreq>
+  <loc>http://www.team100.org/first</loc>
 </url>
 <url>
-  <loc>http://team100.org/challenges</loc>
-  <changefreq>always</changefreq>
+  <loc>http://www.team100.org/challenges</loc>
 </url>
 <url>
-  <loc>http://team100.org/team</loc>
-  <changefreq>always</changefreq>
+  <loc>http://www.team100.org/team</loc>
 </url>
 <url>
-  <loc>http://team100.org/ftcteam</loc>
-  <changefreq>always</changefreq>
+  <loc>http://www.team100.org/ftcteam</loc>
 </url>
 <url>
-  <loc>http://team100.org/photos</loc>
-  <changefreq>always</changefreq>
+  <loc>http://www.team100.org/photos</loc>
 </url>
 <url>
-  <loc>http://team100.org/videos</loc>
-  <changefreq>always</changefreq>
+  <loc>http://www.team100.org/videos</loc>
 </url>
 <url>
-  <loc>http://team100.org/robots</loc>
-  <changefreq>always</changefreq>
+  <loc>http://www.team100.org/robots</loc>
 </url>
 <url>
-  <loc>http://team100.org/calendar</loc>
-  <changefreq>always</changefreq>
+  <loc>http://www.team100.org/calendar</loc>
 </url>
 <url>
-  <loc>http://team100.org/contact</loc>
-  <changefreq>always</changefreq>
+  <loc>http://www.team100.org/contact</loc>
 </url>
 <url>
-  <loc>http://team100.org/links</loc>
-  <changefreq>always</changefreq>
+  <loc>http://www.team100.org/links</loc>
 </url>
 <url>
-  <loc>http://team100.org/resources</loc>
-  <changefreq>always</changefreq>
+  <loc>http://www.team100.org/resources</loc>
 </url>
 <url>
-  <loc>http://team100.org/sponsors</loc>
-  <changefreq>always</changefreq>
+  <loc>http://www.team100.org/sponsors</loc>
 </url>
 </urlset>
