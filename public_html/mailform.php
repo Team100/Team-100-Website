@@ -91,7 +91,7 @@ body {
 <div class="navbar navbar-inverse navbar-fixed-top">
   <div id="sub">
     <div class="row">
-      <div class="container"><a href="index"><img src="assets/img/t100-logo.png" width="158" height="43"></a> <a class="pull-right" href="http://www.usfirst.org/"><img src="assets/img/firstLogos/first-horizontal.png" width="114" height="45" alt="FIRST Robotics"></a></div>
+      <div class="container"><a href="index"><img src="assets/img/t100-logo.png" width="158" height="43"></a> <a class="pull-right" href="http://www.firstinspires.org/"><img src="assets/img/firstLogos/first-horizontal.png" width="172" height="45" alt="FIRST Robotics"></a></div>
     </div>
   </div>
    <div class="navbar-inner">
