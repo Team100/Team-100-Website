@@ -8,6 +8,7 @@ Disallow: /WildHatter/
 Disallow: /animation.html
 Disallow: /footer.html
 Disallow: /header.html
+Disallow: /mailform.php
 Disallow: /index-templatetest.html
 Disallow: /member_benefit.html
 Disallow: /social_feeds.html
