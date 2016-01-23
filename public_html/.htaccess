@@ -2,12 +2,6 @@ Options +FollowSymLinks
 RewriteEngine on
 RewriteCond %{HTTP_HOST} ^team100.org[nc]
 RewriteRule ^(.*)$ http://www.team100.org/$1 [r=301,nc]
-<Files easter/COOLKIDSONLY/COOLKIDSONLY.html>
-AuthName "Prompt"
-AuthType Basic
-AuthUserFile /.htpasswd
-Require valid-user
-</Files>
 ErrorDocument 400 /error_pages/Other_Error.shtml
 ErrorDocument 401 /error_pages/Other_Error.shtml
 ErrorDocument 402 /error_pages/Other_Error.shtml
