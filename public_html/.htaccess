@@ -29,12 +29,11 @@ order allow,deny
 deny from all
 </Files>
 Options +Includes
-AddType text/html .shtml .html .php
-AddHandler server-parsed .shtml .html .php
+AddType text/html .shtml .html
+AddHandler server-parsed .shtml .html
 Options All -Indexes
 Options -MultiViews
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^\.]+)$ $1.html [NC,L]
-RewriteRule ^([^\.]+)$ $1.php [NC,L]
