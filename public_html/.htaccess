@@ -17,7 +17,6 @@ ErrorDocument 411 /error_pages/411.shtml
 ErrorDocument 412 /error_pages/412.shtml
 ErrorDocument 413 /error_pages/413.shtml
 ErrorDocument 414 /error_pages/414.shtml
-ErrorDocument 418 /error_pages/418.shtml
 ErrorDocument 500 /error_pages/500.shtml
 ErrorDocument 501 /error_pages/501.shtml
 ErrorDocument 502 /error_pages/502.shtml
