@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /internalsite/
 Disallow: /dev
 Disallow: /easter/
 Disallow: /error_pages/
