@@ -16,7 +16,5 @@ Disallow: /untitled.html
 Disallow: /untitled2.html
 Disallow: /untitled-monster.html
 Disallow: /README.txt
-Disallow: /assets/code
-Disallow: /assets/css
-Disallow: /assets/js
+
 
