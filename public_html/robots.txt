@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /internalsite/
 Disallow: /dev
 Disallow: /easter/
 Disallow: /error_pages/
@@ -17,7 +16,5 @@ Disallow: /untitled.html
 Disallow: /untitled2.html
 Disallow: /untitled-monster.html
 Disallow: /README.txt
-Disallow: /assets/code
-Disallow: /assets/css
-Disallow: /assets/js
+
 
