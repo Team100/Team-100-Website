@@ -2,6 +2,9 @@
 Thumbs.db
 ehthumbs.db
 
+# Picasa meta files
+.picasa.ini
+
 # Folder config file
 Desktop.ini
 
@@ -41,6 +44,3 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-
-# Picasa meta files
-.picasa.ini
