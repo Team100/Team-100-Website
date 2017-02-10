@@ -9,7 +9,7 @@
 <head>
 <meta charset="utf-8">
 <!-- InstanceBeginEditable name="title" -->
-<title>Team 100 - FIRST</title>
+
 <!-- InstanceEndEditable -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="FIRST Robotics Competition Team 100 is a student run, student built robotics team in the San Francisco Bay Area.">
