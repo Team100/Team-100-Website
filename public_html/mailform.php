@@ -152,7 +152,7 @@ body {
         </ul>
       </div>
       <!--/.nav-collapse -->
-    <img src="assets/img/FRC-ExcelAward'12.gif" class="pull-right" alt="FRC ExcelAward for 2012">
+    
 	<img src="assets/img/FRC-ExcelAward'10.gif" class="pull-right" alt="FRC ExcelAward for 2010">
 	<img src="assets/img/FRC-ExcelAward'08.gif" class="pull-right" alt="FRC ExcelAward for 2008">
   </div>
